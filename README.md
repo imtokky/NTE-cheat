@@ -1,10 +1,12 @@
 # NTE-cheat
-Neverness To Everness Reversal external cheat showcase
+Neverness To Everness Reversal external cheat
 
-It is currently under development.
+Uses kdmapper (external). Official release will be more streamlined.
 
-I will distribute it once it’s completed.
+Still learning—plenty of better coders out there.
 
-https://streamable.com/iev7kb
+Note: Disable all Windows Security; run before use mapper.
+
+Features: Speed, No Clip, Gravity, TP, ESP, Block Damage, Player Speed. 
 
 https://discord.gg/7c38bMcMK5
