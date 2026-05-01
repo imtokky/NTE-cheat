@@ -1,6 +1,8 @@
 # NTE-cheat
 Neverness To Everness Reversal external cheat
 
+### I'm starting to work on an internal version today (May 1). Using external is just too much of a hassle.
+
 Uses kdmapper (external). Official release will be more streamlined.
 
 Still learning—plenty of better coders out there.
