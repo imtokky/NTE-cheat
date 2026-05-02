@@ -1,5 +1,5 @@
 # NTE-cheat
-Neverness To Everness Reversal external cheat
+Neverness To Everness Reversal cheat
 
 I have updated to the internal version
 
