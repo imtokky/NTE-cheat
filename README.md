@@ -10,6 +10,7 @@ Features: Speed, No Clip, Gravity, TP, ESP, GodMode, Player Speed.
 Runs on DX11 only
 
 Verified injector: Xenos
+
 Usage: Close the game and the launcher, configure Xenos according to the settings in this image, click the “Inject” button, and then open the game.
 Xenos: failed to inject image ->  This is fine. If you try again, it will inject properly.
 
