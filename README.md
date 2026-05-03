@@ -7,11 +7,12 @@ Still learning—plenty of better coders out there.
 
 Features: Speed, No Clip, Gravity, TP, ESP, GodMode, Player Speed. 
 
-### Runs on DX11 only
+## Runs on DX11 only
 
 Verified injector: Xenos
 
-Usage: Close the game and the launcher, configure Xenos according to the settings in this image, click the “Inject” button, and then open the game.
+## Usage: 
+Close the game and the launcher, configure Xenos according to the settings in this image, click the “Inject” button, and then open the game.
 
 ---> https://streamable.com/tttvcx 
 
