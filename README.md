@@ -12,7 +12,8 @@ Runs on DX11 only
 Verified injector: Xenos
 
 Usage: Close the game and the launcher, configure Xenos according to the settings in this image, click the “Inject” button, and then open the game.
-Xenos: failed to inject image ->  This is fine. If you try again, it will inject properly.
+
+Xenos: failed to inject image ->  This is fine. If you try again, it will inject properly. (0xC0000022)
 
 <img width="956" height="443" alt="image" src="https://github.com/user-attachments/assets/5d1137bf-53ad-4307-bbfb-52127940801a" />
 
