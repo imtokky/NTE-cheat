@@ -32,10 +32,16 @@ Xenos: "failed to inject image" -> **This is fine**. If you try again, it will i
 - No Clip
 - Gravity
 
+#### Visual
+- Fov changer
+
 #### ESP
+- Tracers
+- ESP filter
 
 #### Teleport
 - Coordinate TP
 - OracleStone TP
 - ViewPoint TP
+- Chest TP
 - Saved Locations
