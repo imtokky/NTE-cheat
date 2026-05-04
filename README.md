@@ -19,14 +19,12 @@ Xenos: "failed to inject image" -> **This is fine**. If you try again, it will i
 
 ## Features
 
-#### Player
+#### Combat
 - God Mode
 - Always Crit
 - Multi Hit
 - No Skill Cooldown
 - Player Speed
-
-#### World
 - Global Speed
 
 #### Movement
