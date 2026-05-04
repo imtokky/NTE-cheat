@@ -1,21 +1,43 @@
 # NTE-cheat
+
 Neverness To Everness Reversal cheat
 
 https://discord.gg/7c38bMcMK5
 
-Still learning—plenty of better coders out there.
+Still learning - plenty of better coders out there.
 
-Features: Speed, No Clip, Gravity, TP, ESP, GodMode, Player Speed. 
-
-## Runs on DX11 only
-
+## Usage
 Verified injector: Xenos
 
-## Usage: 
-Close the game and the launcher, configure Xenos according to the settings in this image, click the “Inject” button, and then open the game.
+Close the game and the launcher, configure Xenos according to the settings in this image, click the "Inject" button, and then open the game.
 
----> https://streamable.com/tttvcx 
+---> https://streamable.com/tttvcx
 
-Xenos: "failed to inject image" ->  **This is fine**. If you try again, it will inject properly. (0xC0000022)
+Xenos: "failed to inject image" -> **This is fine**. If you try again, it will inject properly. (0xC0000022)
 
 <img width="956" height="443" alt="image" src="https://github.com/user-attachments/assets/5d1137bf-53ad-4307-bbfb-52127940801a" />
+
+## Features
+
+#### Player
+- God Mode
+- Always Crit
+- Multi Hit
+- No Skill Cooldown
+- Player Speed
+
+#### World
+- Global Speed
+
+#### Movement
+- Speed Hack
+- No Clip
+- Gravity
+
+#### ESP
+
+#### Teleport
+- Coordinate TP
+- OracleStone TP
+- ViewPoint TP
+- Saved Locations
