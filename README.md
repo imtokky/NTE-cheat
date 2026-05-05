@@ -34,6 +34,7 @@ Xenos: "failed to inject image" -> **This is fine**. If you try again, it will i
 
 #### Visual
 - Fov changer
+- Peeking
 
 #### ESP
 - Tracers
