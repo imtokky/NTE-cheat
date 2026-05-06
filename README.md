@@ -11,6 +11,8 @@ Verified injector: Xenos
 
 Close the game and the launcher, configure Xenos according to the settings in this image, click the "Inject" button, and then open the game.
 
+HTGame path: Neverness To Everness\Client\WindowsNoEditor\HT\Binaries\Win64\HTGame.exe
+
 ---> https://streamable.com/tttvcx
 
 Xenos: "failed to inject image" -> **This is fine**. If you try again, it will inject properly. (0xC0000022)
