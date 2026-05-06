@@ -44,7 +44,6 @@ Supports key bindings
 - ESP filter
 
 #### Teleport
-- Coordinate TP
 - OracleStone TP
 - ViewPoint TP
 - Chest TP
