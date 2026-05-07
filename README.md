@@ -20,6 +20,8 @@ Xenos: "failed to inject image" -> **This is fine**. If you try again, it will i
 <img width="956" height="443" alt="image" src="https://github.com/user-attachments/assets/5d1137bf-53ad-4307-bbfb-52127940801a" />
 
 ## Features
+Language support: en, zh
+
 Supports key bindings
 
 #### Combat
