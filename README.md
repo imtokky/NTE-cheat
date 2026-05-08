@@ -9,7 +9,7 @@ Still learning - plenty of better coders out there.
 ## Usage
 1. Run launcher.exe
 2. Start the game as usual.
-3. Once the injection is successful, press **Insert** to open the menu.
+3. After a few seconds, you can press **Insert** to open the menu.
 
 ## Features
 Language support: en, zh
