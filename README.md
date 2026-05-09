@@ -12,7 +12,7 @@ Still learning - plenty of better coders out there.
 3. After a few seconds, you can press **Insert** to open the menu.
 
 ## Features
-Language support: en, zh
+Language support: en, zh, ru
 
 Supports key bindings
 
