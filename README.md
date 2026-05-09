@@ -28,10 +28,13 @@ Supports key bindings
 - Speed Hack
 - No Clip
 - Gravity
+- Vehicle Into Water (Force dismount)
 
 #### Visual
 - Fov changer
 - Peeking
+- Costume changer
+- Glider changer
 
 #### ESP
 - Tracers
