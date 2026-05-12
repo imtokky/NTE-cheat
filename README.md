@@ -22,7 +22,6 @@ Supports key bindings
 - Multi Hit
 - No Skill Cooldown
 - Player Speed
-- Global Speed
 
 #### Movement
 - Speed Hack
@@ -46,3 +45,8 @@ Supports key bindings
 - Chest TP
 - Quest TP
 - Saved Locations
+
+#### World
+- Global Speed
+- Auto Quest
+- Summon Vehicles
