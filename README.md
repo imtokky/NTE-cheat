@@ -1,6 +1,6 @@
 # NTE-cheat
 
-Neverness To Everness Reversal cheat
+Neverness To Everness cheat
 
 https://discord.gg/7c38bMcMK5
 
