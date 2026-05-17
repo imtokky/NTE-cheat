@@ -22,6 +22,8 @@ Supports key bindings
 - Multi Hit
 - No Skill Cooldown
 - Player Speed
+- Infinite stamina
+- Mob Vacuum
 
 #### Movement
 - Speed Hack
@@ -44,9 +46,12 @@ Supports key bindings
 - ViewPoint TP
 - Chest TP
 - Quest TP
+- Race Checkpoint TP
 - Saved Locations
 
 #### World
 - Global Speed
 - Auto Quest
 - Summon Vehicles
+- Bank Auto Loot
+- Unlock all Awaken
