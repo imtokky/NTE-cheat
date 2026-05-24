@@ -54,6 +54,7 @@ Supports key bindings
 #### World
 - Global Speed
 - Auto Quest
+- Auto Fish
 - Summon Vehicles
 - Bank Auto Loot
 - Unlock all Awaken
