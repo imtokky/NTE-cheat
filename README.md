@@ -5,7 +5,7 @@ Neverness To Everness cheat
 Supports Global & CN client
 
 
-https://discord.gg/7c38bMcMK5
+join my discord: https://discord.gg/7c38bMcMK5
 
 Still learning - plenty of better coders out there.
 
