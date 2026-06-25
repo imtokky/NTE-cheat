@@ -6,6 +6,8 @@ Supports Global & CN client
 
 join my discord: https://discord.gg/7c38bMcMK5
 
+If you'd like to make a donation, please click the button below. All donations will be used to purchase hardware for the project.
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/imtokky)
 
 ## Usage
