@@ -4,15 +4,21 @@ Neverness To Everness cheat
 
 Supports Global & CN client
 
-
 join my discord: https://discord.gg/7c38bMcMK5
 
-Still learning - plenty of better coders out there.
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/imtokky)
 
 ## Usage
 1. Run launcher.exe
 2. Start the game as usual.
 3. After a few seconds, you can press **Insert** to open the menu.
+
+### How to use custom TP
+Make sure the contents of the .txt file follow this format: `name, x, y, z`
+
+Place the .txt file in the same folder as this DLL, then enter the file name in the menu to load it.
+
+you can use this-> https://github.com/NTE-ASIA/TP-Pack-for-NTE/tree/main/TP%20Files
 
 ## Features
 Language support: en, zh, ru
