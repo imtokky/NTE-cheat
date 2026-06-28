@@ -6,7 +6,7 @@ Supports Global & CN client
 
 join my discord: https://discord.gg/7c38bMcMK5
 
-If you'd like to make a donation, please click the button below. All donations will be used to purchase hardware for the project.
+All donations will be used to purchase hardware for the project.
 
 ## Usage
 1. Run launcher.exe
