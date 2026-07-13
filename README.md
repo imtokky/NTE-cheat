@@ -38,7 +38,7 @@ Supports key bindings
 - Speed Hack
 - No Clip
 - Gravity
-- Vehicle Into Water (Force dismount)
+- Infinite Jump
 
 #### Visual
 - Fov changer
