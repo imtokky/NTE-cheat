@@ -6,7 +6,6 @@ Supports Global & CN client
 
 join my discord: https://discord.gg/7c38bMcMK5
 
-
 All donations will be used to purchase hardware for the project.
 
 ## Usage
