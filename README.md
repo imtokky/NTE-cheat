@@ -65,3 +65,8 @@ Supports key bindings
 - Summon Vehicles
 - Bank Auto Loot
 - Unlock all Awaken
+
+### Misc
+- Language
+- Hide UID
+- Save / Load Consifg
