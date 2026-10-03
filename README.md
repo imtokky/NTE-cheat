@@ -13,12 +13,6 @@ All donations will be used to purchase hardware for the project.
 2. Start the game as usual.
 3. After a few seconds, you can press **Insert** to open the menu.
 
-### How to use custom TP
-Make sure the contents of the .txt file follow this format: `name, x, y, z`
-
-Place the .txt file in the same folder as this DLL, then enter the file name in the menu to load it.
-
-you can use this-> https://github.com/NTE-ASIA/TP-Pack-for-NTE/tree/main/TP%20Files
 
 ## Features
 Language support: en, zh, ru
