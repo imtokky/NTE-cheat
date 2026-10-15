@@ -15,7 +15,7 @@ All donations will be used to purchase hardware for the project.
 
 
 ## Features
-Language support: en, zh, ru
+Language support: en, zh, ru, ko
 
 Supports key bindings
 
