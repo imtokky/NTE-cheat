@@ -23,6 +23,7 @@ Supports key bindings
 - God Mode
 - Always Crit
 - Multi Hit
+- Kill Aura
 - No Skill Cooldown
 - Player Speed
 - Infinite stamina
