@@ -60,6 +60,11 @@ Supports key bindings
 - Summon Vehicles
 - Bank Auto Loot
 - Unlock all Awaken
+- Auto Skip Dialogue
+- Auto Skip Cutscene
+- Pukaland
+  - Instant Win
+  - Always Win
 
 ### Misc
 - Language
