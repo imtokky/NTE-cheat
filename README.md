@@ -6,10 +6,6 @@ Supports Global & CN client
 
 join my discord: https://discord.gg/7c38bMcMK5
 
-## Usage
-1. Run launcher.exe
-2. Start the game as usual.
-3. After a few seconds, you can press **Insert** to open the menu.
 
 
 ## Features
